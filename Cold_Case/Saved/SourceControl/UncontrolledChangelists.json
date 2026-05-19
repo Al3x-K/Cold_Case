@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Levels/LVL_Game.umap"
+			]
+		}
+	]
+}
