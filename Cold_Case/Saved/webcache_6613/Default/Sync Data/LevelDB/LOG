@@ -1,2 +1,3 @@
-2026/05/20-00:06:43.033 acec Creating DB C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/05/20-00:06:43.064 acec Reusing MANIFEST C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/20-00:11:46.439 5150 Reusing MANIFEST C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/05/20-00:11:46.442 5150 Recovering log #3
+2026/05/20-00:11:46.443 5150 Reusing old log C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 

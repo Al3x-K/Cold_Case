@@ -1,2 +1,3 @@
-2026/05/20-00:06:52.898 6204 Creating DB C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Session Storage since it was missing.
-2026/05/20-00:06:52.927 6204 Reusing MANIFEST C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+2026/05/20-00:11:54.532 57b8 Reusing MANIFEST C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Session Storage/MANIFEST-000001
+2026/05/20-00:11:54.534 57b8 Recovering log #3
+2026/05/20-00:11:54.538 57b8 Reusing old log C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Session Storage/000003.log 
