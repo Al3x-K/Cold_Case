@@ -6,7 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Levels/LVL_Game.umap",
-				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/StaticMeshes/SM_floor1.uasset"
+				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/StaticMeshes/SM_floor1.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/Blueprints/BP_wall_lamp.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/Blueprints/BP_cabinet_stack_1.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/Blueprints/BP_cabinet_stack_2.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/StaticMeshes/SM_folder_006.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/Blueprints/BP_ceiling_lamp.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/Blueprints/BP_Lamp_table.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/Blueprints/BP_floor_lamp.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/Blueprints/BP_table_lamp.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
