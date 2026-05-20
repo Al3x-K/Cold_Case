@@ -26,6 +26,8 @@
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Audio/SFX/848795__swifty433__pickup.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/UI/WBP_InteractPrompt.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/BP_BaseInteractive.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Materials/M_Outline_PP.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Materials/M_SimpleOutline.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
