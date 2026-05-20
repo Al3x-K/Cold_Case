@@ -15,7 +15,16 @@
 				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/Blueprints/BP_Lamp_table.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/Blueprints/BP_floor_lamp.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/Blueprints/BP_table_lamp.uasset",
-				"C:/Projects/Cold_Case/Cold_Case/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Projects/Cold_Case/Cold_Case/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/BPI_Interaction.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Materials/MPC_GameStates.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/FirstPerson/Blueprints/BP_Player.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Input/IMC_Default.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Input/Actions/IA_Interact.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/FirstPerson/Blueprints/BP_FirstPersonCameraManager.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/Pickups/BP_Pickup_MagnifyingGlass.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Audio/SFX/848795__swifty433__pickup.uasset"
 			]
 		}
 	]
