@@ -1,48 +1,5 @@
-2026/05/21-01:36:25.225 993c Reusing MANIFEST C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/21-01:36:25.235 993c Recovering log #7
-2026/05/21-01:36:25.241 993c Reusing old log C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Local Storage\leveldb/000007.log 
-2026/05/21-03:27:51.544 993c Level-0 table #11: started
-2026/05/21-03:27:51.555 993c Level-0 table #11: 73496 bytes OK
-2026/05/21-03:27:51.558 993c Delete type=0 #7
-2026/05/21-03:28:22.827 5e8 Level-0 table #13: started
-2026/05/21-03:28:22.837 5e8 Level-0 table #13: 71844 bytes OK
-2026/05/21-03:28:22.841 5e8 Delete type=0 #10
-2026/05/21-03:36:53.032 5e8 Level-0 table #15: started
-2026/05/21-03:36:53.059 5e8 Level-0 table #15: 75055 bytes OK
-2026/05/21-03:36:53.062 5e8 Delete type=0 #12
-2026/05/21-03:37:23.838 5e8 Level-0 table #17: started
-2026/05/21-03:37:23.850 5e8 Level-0 table #17: 79651 bytes OK
-2026/05/21-03:37:23.852 5e8 Delete type=0 #14
-2026/05/21-03:37:23.854 5e8 Compacting 4@0 + 1@1 files
-2026/05/21-03:37:23.866 5e8 Generated table #18@0: 9 keys, 23140 bytes
-2026/05/21-03:37:23.866 5e8 Compacted 4@0 + 1@1 files => 23140 bytes
-2026/05/21-03:37:23.867 5e8 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/21-03:37:23.869 5e8 Delete type=2 #8
-2026/05/21-03:37:23.869 5e8 Delete type=2 #11
-2026/05/21-03:37:23.869 5e8 Delete type=2 #13
-2026/05/21-03:37:23.869 5e8 Delete type=2 #15
-2026/05/21-03:37:23.869 5e8 Delete type=2 #17
-2026/05/21-03:37:40.763 5e8 Level-0 table #20: started
-2026/05/21-03:37:40.772 5e8 Level-0 table #20: 63682 bytes OK
-2026/05/21-03:37:40.774 5e8 Delete type=0 #16
-2026/05/21-03:37:59.173 5e8 Level-0 table #22: started
-2026/05/21-03:37:59.183 5e8 Level-0 table #22: 71466 bytes OK
-2026/05/21-03:37:59.185 5e8 Delete type=0 #19
-2026/05/21-03:38:15.390 5e8 Level-0 table #24: started
-2026/05/21-03:38:15.399 5e8 Level-0 table #24: 79334 bytes OK
-2026/05/21-03:38:15.402 5e8 Delete type=0 #21
-2026/05/21-03:38:31.234 5e8 Level-0 table #26: started
-2026/05/21-03:38:31.244 5e8 Level-0 table #26: 92086 bytes OK
-2026/05/21-03:38:31.248 5e8 Delete type=0 #23
-2026/05/21-03:38:31.248 5e8 Compacting 4@0 + 1@1 files
-2026/05/21-03:38:31.257 5e8 Generated table #27@0: 9 keys, 35140 bytes
-2026/05/21-03:38:31.257 5e8 Compacted 4@0 + 1@1 files => 35140 bytes
-2026/05/21-03:38:31.258 5e8 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/05/21-03:38:31.260 5e8 Delete type=2 #18
-2026/05/21-03:38:31.260 5e8 Delete type=2 #20
-2026/05/21-03:38:31.260 5e8 Delete type=2 #22
-2026/05/21-03:38:31.260 5e8 Delete type=2 #24
-2026/05/21-03:38:31.260 5e8 Delete type=2 #26
-2026/05/21-03:38:48.665 5e8 Level-0 table #29: started
-2026/05/21-03:38:48.678 5e8 Level-0 table #29: 68099 bytes OK
-2026/05/21-03:38:48.682 5e8 Delete type=0 #25
+2026/05/21-06:03:38.205 abcc Reusing MANIFEST C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/21-06:03:38.216 abcc Recovering log #28
+2026/05/21-06:03:38.218 abcc Level-0 table #31: started
+2026/05/21-06:03:38.231 abcc Level-0 table #31: 69279 bytes OK
+2026/05/21-06:03:38.240 abcc Delete type=0 #28
