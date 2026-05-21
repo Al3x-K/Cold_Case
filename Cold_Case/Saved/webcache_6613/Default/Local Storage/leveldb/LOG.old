@@ -1,6 +1,5 @@
-2026/05/21-11:07:48.823 994c Reusing MANIFEST C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/21-11:07:48.836 994c Recovering log #41
-2026/05/21-11:07:48.842 994c Reusing old log C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Local Storage\leveldb/000041.log 
-2026/05/21-11:40:21.217 8cfc Level-0 table #45: started
-2026/05/21-11:40:21.229 8cfc Level-0 table #45: 75948 bytes OK
-2026/05/21-11:40:21.232 8cfc Delete type=0 #41
+2026/05/21-13:55:10.818 706c Reusing MANIFEST C:\Projects\Cold_Case\Cold_Case\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/21-13:55:10.830 706c Recovering log #47
+2026/05/21-13:55:10.831 706c Level-0 table #51: started
+2026/05/21-13:55:10.842 706c Level-0 table #51: 76352 bytes OK
+2026/05/21-13:55:10.851 706c Delete type=0 #47
