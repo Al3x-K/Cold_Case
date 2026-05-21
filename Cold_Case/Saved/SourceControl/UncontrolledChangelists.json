@@ -28,6 +28,11 @@
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/BP_BaseInteractive.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Materials/M_Outline_PP.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Materials/M_SimpleOutline.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Input/Actions/IA_ToggleGlass.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Materials/M_Substrate_Lens.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/BP_MagnifyingGlass.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/Pickups/BP_MagnifyingGlass.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/BP_Player.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
