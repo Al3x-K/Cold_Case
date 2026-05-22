@@ -1,7 +1,0 @@
-[9032:23984:0521/142453.514:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[9032:26956:0521/142453.612:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[9032:23984:0521/142453.645:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[9032:23984:0521/142503.039:ERROR:device_event_log_impl.cc(196)] [14:25:03.024] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[34040:32360:0521/142503.441:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-84D8F0A270932931C037B0DB932D0FF8 will be ignored
-[22304:6588:0521/142504.120:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-D651248BF7C02EF1865BF1BD6CBF1FFF will be ignored
-[16888:23184:0521/142504.327:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
