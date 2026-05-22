@@ -56,11 +56,11 @@ Audio design also became more focused. The final game uses layered ambient sound
 The UI design was intentionally kept minimal. The final implementation includes simple interaction prompts alongside examination widgets displaying the title and description of interactive objects. This approach supported immersion while still providing enough information for players to follow the investigation.
 
 References
-The Big Sleep (1946) Directed by Howard Hawks. United States: Warner Bros.
-Chinatown (1974) Directed by Roman Polanski. United States: Paramount Pictures.
-L.A. Confidential (1997) Directed by Curtis Hanson. United States: Warner Bros.
-L.A. Noire (2011) Developed by Team Bondi. Published by Rockstar Games.
-Firewatch (2016) Developed by Campo Santo. Published by Panic.
-Epic Games (2024) First Person Template [Unreal Engine built-in template]. Unreal Engine 5. Available through Unreal Engine.
-Detective Office Environment Pack (2026) Fab asset pack. Accessed May 2026.
-PC Keyboard & Mouse Icon Pack (UI Icons, Input Icons, Keyboard, Mouse, UI Pack) (2026) Fab asset pack. Accessed May 2026.
+- The Big Sleep (1946) Directed by Howard Hawks. United States: Warner Bros.
+- Chinatown (1974) Directed by Roman Polanski. United States: Paramount Pictures.
+- L.A. Confidential (1997) Directed by Curtis Hanson. United States: Warner Bros.
+- L.A. Noire (2011) Developed by Team Bondi. Published by Rockstar Games.
+- Firewatch (2016) Developed by Campo Santo. Published by Panic.
+- Epic Games (2024) First Person Template [Unreal Engine built-in template]. Unreal Engine 5. Available through Unreal Engine.
+- Detective Office Environment Pack (2026) Fab asset pack. Accessed May 2026.
+- PC Keyboard & Mouse Icon Pack (UI Icons, Input Icons, Keyboard, Mouse, UI Pack) (2026) Fab asset pack. Accessed May 2026.
