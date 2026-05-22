@@ -18,7 +18,6 @@
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/Interactive_Objects/BP_Notes.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/StaticMeshes/SM_paper_019.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/Interactive_Objects/BP_Casette.uasset",
-				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/UI/WBP_MagnifyingGlass.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/UI/WBP_Collectable.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/Interactive_Objects/BP_Casette2.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Audio/Ambience/656344__klankbeeld__room-tone-basement-002-220811_0492__1_.uasset",
@@ -45,8 +44,6 @@
 				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/Blueprints/BP_cabinet_stack_1.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Input/IMC_Default.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/Interactive_Objects/BP_Recorder.uasset",
-				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/Interactive_Objects/BP_Recorder2.uasset",
-				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/Interactive_Objects/BP_Recorde.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/Interactive_Objects/BP_Recorder1.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/UI/W_FinalClue.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/StaticMeshes/SM_wooden_cabinet_2_001_Baked_029.uasset",
@@ -57,7 +54,14 @@
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Audio/SFX/818440__froey__static-cutting-out.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Audio/SFX/187788__fats-million__tape-cassette-insert.uasset",
 				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Audio/SFX/750832__ozna__the-sound-of-keys-jiggling.uasset",
-				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Audio/SFX/494128__wlabarron__hotel-room-door-unlocking.uasset"
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Audio/SFX/494128__wlabarron__hotel-room-door-unlocking.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Cinematics/LS_DoorOpen.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/UI/WBP_ExamineUI.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/DetectiveOffice/StaticMeshes/SM_door_Baked_0021.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/VFX/NS_RoomDust.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/UI/WBP_MagnifyingGlass.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/Interactive_Objects/BP_Recorder2.uasset",
+				"C:/Projects/Cold_Case/Cold_Case/Content/Cold_Case/Blueprints/Interactive_Objects/BP_Recorde.uasset"
 			]
 		}
 	]
